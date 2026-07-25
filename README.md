@@ -137,8 +137,6 @@ Through this project, I gained hands-on experience in:
 
 **Tushal Kamboj**
 
-B.Tech CSE (AI & Data Science)
-
 GitHub: https://github.com/kambojtushal
 
 LinkedIn: https://www.linkedin.com/in/tushal-kamboj-533b05319
