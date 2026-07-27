@@ -95,16 +95,11 @@ EXCEL PROJECT.xlsx
 
 # 📷 Dashboard Preview
 
-> Add screenshots of your Excel Dashboard here.
-
-Example:
-
-```
-images/
-├── dashboard.png
-├── sport-analysis.png
-├── bmi-analysis.png
-```
+<img width="802" height="227" alt="image" src="https://github.com/user-attachments/assets/2354e652-479e-463e-a314-ee1f84b2602e" />
+<img width="803" height="227" alt="image" src="https://github.com/user-attachments/assets/7de2852c-6396-4443-8f1f-b00ea67f7d3f" />
+<img width="805" height="228" alt="image" src="https://github.com/user-attachments/assets/98e67be3-5c67-4161-a822-8ff7e452e97e" />
+<img width="803" height="224" alt="image" src="https://github.com/user-attachments/assets/acb8a176-2b56-4202-bf94-fb87c61e9424" />
+<img width="802" height="228" alt="image" src="https://github.com/user-attachments/assets/dff1ec5c-73e6-4f01-b209-9899e8784b3b" />
 
 ---
 
